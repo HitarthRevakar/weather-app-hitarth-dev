@@ -11,7 +11,7 @@ A sleek and responsive weather application built using HTML, CSS, and JavaScript
 ---
 ## 📸 Screenshots
 
-
+<img src="https://github.com/user-attachments/assets/2e3e1d06-0da3-4466-938b-b4770abfec4d" width="600" alt="weather-app" />
 
 
 ---
